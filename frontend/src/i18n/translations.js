@@ -1,0 +1,62 @@
+export const translations = {
+  rw: {
+    title: "Sistem ya Mipango y'Ingendo mu Rwanda",
+    origin: "Aho Uhaguruka",
+    destination: "Aho Uja",
+    calculate: "Shakisha Inzira Yakwihuta",
+    fastestRoute: "Inzira Yihuta Cyane (Iracagurwa)",
+    shortestRoute: "Inzira Ngufi Mu Ntera",
+    timeSaved: "Ikinyuranyo cy'Ibihe",
+    roadCondition: "Imiterere y'Umuhanda",
+    tarmac: "Kabituraye",
+    stone: "Amabuye (Paved)",
+    unpaved: "Ikimotoka / Igitaka",
+    trafficLevel: "Ubucucike bw'Ibibinyabiziga",
+    closed: "Umuhanda Warafunzwe"
+  },
+  en: {
+    title: "Rwanda Real-Time Traffic & Route Planner",
+    origin: "Origin Location",
+    destination: "Destination",
+    calculate: "Find Fastest Route",
+    fastestRoute: "Fastest Recommended Route",
+    shortestRoute: "Shortest Distance Route",
+    timeSaved: "Time Difference",
+    roadCondition: "Road Surface",
+    tarmac: "Tarmac / Paved",
+    stone: "Stone Paved",
+    unpaved: "Unpaved / Dirt",
+    trafficLevel: "Traffic Congestion",
+    closed: "Road Closed"
+  },
+  fr: {
+    title: "Système de Planification de Trajet au Rwanda",
+    origin: "Lieu de Départ",
+    destination: "Destination",
+    calculate: "Trouver I'Itinéraire le plus Rapide",
+    fastestRoute: "Itinéraire le Plus Rapide",
+    shortestRoute: "Itinéraire le Plus Court",
+    timeSaved: "Temps Gagné",
+    roadCondition: "État de la Route",
+    tarmac: "Goudronné",
+    stone: "Pavé",
+    unpaved: "Non Pavé",
+    trafficLevel: "Niveau de Trafic",
+    closed: "Route Fermée"
+  },
+  sw: {
+    title: "Mfumo wa Kupanga Njia na Trafiki Rwanda",
+    origin: "Unapoanzia",
+    destination: "Unapokwenda",
+    calculate: "Tafuta Njia ya Haraka",
+    fastestRoute: "Njia ya Haraka Zaidi",
+    shortestRoute: "Njia Fupi Zaidi",
+    timeSaved: "Muda Uliookolewa",
+    roadCondition: "Hali ya Barabara",
+    tarmac: "Lami",
+    stone: "Mawe",
+    unpaved: "Udongo",
+    trafficLevel: "Msongamano wa Trafiki",
+    closed: "Barabara Imefungwa"
+  }
+};
